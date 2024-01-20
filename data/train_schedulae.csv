@@ -1,0 +1,32 @@
+train_id,station,time
+101,Grand Central,08:15 AM
+101,Penn Station,10:30 AM
+101,Union Station,12:45 PM
+102,Kings Cross,02:00 PM
+102,Shinjuku Station,04:20 PM
+103,Waterloo,06:35 PM
+103,Victoria Station,08:50 AM
+104,King's Cross,11:05 AM
+104,Gare du Nord,01:20 PM
+105,Tokyo Station,03:35 PM
+105,Hong Kong Station,05:50 PM
+106,Liverpool Street,07:05 AM
+106,Beijing South,09:20 AM
+107,Seoul Station,11:35 AM
+107,Madrid Atocha,01:50 PM
+108,Berlin Hauptbahnhof,04:05 PM
+108,Amsterdam Centraal,06:20 PM
+109,Rome Termini,08:35 AM
+109,Zurich Hauptbahnhof,10:50 AM
+110,Sydney Central,01:05 PM
+110,Singapore Central,03:20 PM
+111,Mexico City Terminal,05:35 PM
+111,Moscow Kazansky,07:50 AM
+112,New Delhi Junction,10:05 AM
+112,Bangkok Hua Lamphong,12:20 PM
+113,Cairo Ramses,02:35 PM
+113,Buenos Aires Retiro,04:50 PM
+114,Toronto Union Station,07:05 AM
+114,Dubai Union,09:20 AM
+115,San Francisco Station,11:35 AM
+115,Los Angeles Union,01:50 PM
